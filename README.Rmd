@@ -21,14 +21,9 @@ knitr::opts_chunk$set(
 foofactors is a toy package build to understand the r package development and deployment process detailed [here](https://r-pkgs.org/whole-game.html). It has a couple of helper functions for dealing with factors.
 
 ## Installation
+The development version from [GitHub](https://github.com/) with:
 
-You can install the released version of foofactors from [CRAN](https://CRAN.R-project.org) with:
-
-``` r
-devtools::install_github("vigneshrajakumar/foofactors")
-```
-
-And the development version from [GitHub](https://github.com/) with:
+> There is no production version of this package
 
 ``` r
 # install.packages("devtools")

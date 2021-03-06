@@ -14,14 +14,9 @@ functions for dealing with factors.
 
 ## Installation
 
-You can install the released version of foofactors from
-[CRAN](https://CRAN.R-project.org) with:
+The development version from [GitHub](https://github.com/) with:
 
-``` r
-devtools::install_github("vigneshrajakumar/foofactors")
-```
-
-And the development version from [GitHub](https://github.com/) with:
+> There is no production version of this package
 
 ``` r
 # install.packages("devtools")
